@@ -1,0 +1,37 @@
+# API Keys - NEVER upload these
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.pyc
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Data files (generated automatically)
+data/vectorstore/
+data/university_finder.db
+data/student_profile.json
+data/conversation_summary.txt
+
+# Output files
+outputs/
+
+# HuggingFace cache
+.cache/
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Mac
+.DS_Store
