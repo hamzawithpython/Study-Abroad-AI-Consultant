@@ -1,0 +1,13 @@
+langchain
+langchain-groq
+langchain-community
+langchain-huggingface
+langchain-core
+langgraph
+gradio==4.44.0
+faiss-cpu
+sentence-transformers
+tavily-python
+requests
+python-dotenv
+pandas
